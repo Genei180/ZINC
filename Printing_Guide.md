@@ -111,11 +111,17 @@ to use one.
 - 3 Perimeters
 - Supports (Ideally Tree)
 - (Brim for adhesion)
+
 ![](assets/Mag_Base_Follower.png)
+
 Variant A:
+
 ![](assets/Magazin_A.png)
+
 Variant B:
+
 ![](assets/Magazin_B.png)
+
 Variant B will require you
 to sand the magazine well to get
 rid of the noise.
