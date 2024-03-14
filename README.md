@@ -7,7 +7,8 @@ A great Project for Getting in the World of 3D Printing.
 # Parts List
 
 ## Printed Parts
-All Printed Parts are Provided in [Zinc_Files](Zinc_Files/Current/)
+All Printed Parts are Provided as .step and .stl [All Zinc Files](Zinc_Files/Current/).
+You Most Likly need the STL Files Provided here: [STL's](Zinc_Files/Current/STL/)
 
 ## Hardware Kit
 Visit https://www.frontlinefoam.com/product/zinc-hardware-kit/ to purchase a hardware kit. 
