@@ -1,5 +1,11 @@
 # ZINC Changelog
 
+14/03/2024
+    - Added Plunger Core for 3D Printing
+    - Added Instruction for Plunger Core, and added the Instructions for Easier Changing in the Future as Markdown
+    - Add Metric Parts
+    - Add (Metric) BOM
+
 8/12/2021
     - Assembly guide posted
 
