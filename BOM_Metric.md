@@ -11,9 +11,7 @@
 - Alternative (PETG)
 
 ### 3D Printed Parts
-- See [Parts](ZINC_Files/Current/) for Parts you need too Print [^MetricInfo]
-
-If you are using this BOM you need the _Metric Parts.
+- See [Parts](ZINC_Files/Current/) for Parts you need too Print (If you are using this BOM you need the _Metric Parts, for more Information see [^MetricInfo])
 
 ### Hardware
 - Plunger Tube (28mm OD[^OD], ~~25mm~~ 24mm ID[^ID], Length 152mm) See: [^MetricInfo]
