@@ -16,10 +16,10 @@
 If you are using this BOM you need the _Metric Parts.
 
 ### Hardware
-- Plunger Tube (28mm OD, ~~25mm~~ 24mm ID, Length 152mm) See: [^MetricInfo]
-- Barrel (16mm OD, 13mm ID, Length 133mm, Chamfer one side)
+- Plunger Tube (28mm OD[^OD], ~~25mm~~ 24mm ID[^ID], Length 152mm) See: [^MetricInfo]
+- Barrel (16mm OD[^OD], 13mm ID[^ID], Length 133mm, Chamfer one side)
 
-- Plunger Rod (M3) 3mm OD, Length 186mm
+- Plunger Rod (M3) 3mm OD[^OD], Length 186mm
 - Metal Plunger Core (can be Printed) (CNC Pull Stud) (BT30-90W)
 
 - M2 (2mm) Pins
@@ -36,7 +36,7 @@ If you are using this BOM you need the _Metric Parts.
 - 2x M3 Spacer Disk
 
 - Thumb Nut (M3)
-- 2x Magnets (6mm OD, 6mm Height)
+- 2x Magnets (6mm OD[^OD], 6mm Height)
 
 - O- Rings
 	- 5mm Dia x 2mm Thickness (Plunger Impact Dampener)
@@ -44,8 +44,8 @@ If you are using this BOM you need the _Metric Parts.
 	- 18mm Dia x 2.5mm Thickness (Plunger Seal)
 	- 18mm Dia x 2mm Thickness (Rear Seal)
 
-\* OD = Outer Diameter <br>
-\* ID = Inner Diameter
+[^OD]: OD = Outer Diameter
+[^ID]: ID = Inner Diameter
 
 [^MetricInfo]: If you are Buying the Hardware Kit Ignore the _Metric Parts.
 	If you want too Source Metric Hardware yourself, the Tube would have the approximate Size 28mm OD, 25mm ID.
